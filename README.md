@@ -6,7 +6,7 @@ This is a SHA-1 hash generator by JavaScript.
 
 ## Live Demo
 
-For a live demo, visit: [https://linkgod.github.io/SHA-1/](https://linkgod.github.io/SHA-1/)
+For a live demo, visit: [https://edgoadcom.github.io/SHA-1/](https://edgoadcom.github.io/SHA-1/)
 
 ## Get started
 
